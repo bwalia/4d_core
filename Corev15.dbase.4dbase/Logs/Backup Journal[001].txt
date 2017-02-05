@@ -1,0 +1,268 @@
+*** Full Backup
+Creating archive : Macintosh:Users:balinderwalia:Developmentv11:Core.4dbase:Core[0001].4BK
+Creating log backup : Macintosh:Users:balinderwalia:Developmentv11:Core.4dbase:Core[0000].4BL
+Scheduled : 21/06/09 13:18:01
+Starting : 21/06/09 13:18:01
+Ending : 21/06/09 13:18:01
+
+*** Full Backup
+Creating archive : Macintosh:Users:balinderwalia:Developmentv11:Core.4dbase:Core[0002].4BK
+Creating log backup : Macintosh:Users:balinderwalia:Developmentv11:Core.4dbase:Core[0001].4BL
+Scheduled : 28/06/09 00:00:00
+Starting : 10/07/09 10:56:12
+Ending : 10/07/09 10:56:12
+
+*** Full Backup
+Creating archive : Macintosh:Users:balinderwalia:Documents:Developmentv11:Core.4dbase:Core[0001].4BK
+Creating log backup : Macintosh:Users:balinderwalia:Documents:Developmentv11:Core.4dbase:Core[0000].4BL
+Scheduled : 16/09/09 21:13:29
+Starting : 16/09/09 21:13:29
+Ending : 16/09/09 21:13:30
+
+*** Full Backup
+Creating archive : Macintosh:Users:balinderwalia:Documents:Developmentv11:Core.4dbase:Core[0002].4BK
+Creating log backup : Macintosh:Users:balinderwalia:Documents:Developmentv11:Core.4dbase:Core[0001].4BL
+Scheduled : 20/09/09 00:00:00
+Starting : 04/11/09 20:45:40
+Ending : 04/11/09 20:45:41
+
+*** Full Backup
+Creating archive : Macintosh:Users:balinderwalia:Documents:Developmentv11:Core.4dbase:Core[0003].4BK
+Creating log backup : Macintosh:Users:balinderwalia:Documents:Developmentv11:Core.4dbase:Core[0002].4BL
+Scheduled : 08/11/09 00:00:00
+Starting : 10/11/09 17:32:31
+Ending : 10/11/09 17:32:32
+
+*** Full Backup
+Creating archive : Macintosh:Users:balinderwalia:Documents:Developmentv11:Core.4dbase:Core[0004].4BK
+Deleting old archive : Macintosh:Users:balinderwalia:Documents:Developmentv11:Core.4dbase:Core[0001].4BK
+Creating log backup : Macintosh:Users:balinderwalia:Documents:Developmentv11:Core.4dbase:Core[0003].4BL
+Deleting old log backup : Macintosh:Users:balinderwalia:Documents:Developmentv11:Core.4dbase:Core[0000].4BL
+Scheduled : 15/11/09 00:00:00
+Starting : 15/11/09 18:41:05
+Ending : 15/11/09 18:41:06
+
+*** Full Backup
+Creating archive : Macintosh:Users:balinderwalia:Documents:Developmentv11:Core.4dbase:Core[0005].4BK
+Deleting old archive : Macintosh:Users:balinderwalia:Documents:Developmentv11:Core.4dbase:Core[0002].4BK
+Creating log backup : Macintosh:Users:balinderwalia:Documents:Developmentv11:Core.4dbase:Core[0004].4BL
+Deleting old log backup : Macintosh:Users:balinderwalia:Documents:Developmentv11:Core.4dbase:Core[0001].4BL
+Scheduled : 22/11/09 00:00:00
+Starting : 30/11/09 22:27:10
+Ending : 30/11/09 22:27:11
+
+*** Full Backup
+Creating archive : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0001].4BK
+Creating log backup : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0000].4BL
+Scheduled : 25/02/10 18:09:08
+Starting : 25/02/10 18:09:08
+Ending : 25/02/10 18:09:08
+
+*** Full Backup
+Creating archive : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0002].4BK
+Creating log backup : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0001].4BL
+Scheduled : 28/02/10 00:00:00
+Starting : 01/03/10 14:56:30
+Ending : 01/03/10 14:56:30
+
+*** Full Backup
+Creating archive : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0003].4BK
+Creating log backup : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0002].4BL
+Scheduled : 07/03/10 00:00:00
+Starting : 09/03/10 21:49:06
+Ending : 09/03/10 21:49:07
+
+*** Full Backup
+Creating archive : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0004].4BK
+Deleting old archive : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0001].4BK
+Creating log backup : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0003].4BL
+Deleting old log backup : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0000].4BL
+Scheduled : 14/03/10 00:00:00
+Starting : 16/03/10 11:13:48
+Ending : 16/03/10 11:13:49
+
+*** Full Backup
+Creating archive : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0005].4BK
+Deleting old archive : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0002].4BK
+Creating log backup : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0004].4BL
+Deleting old log backup : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0001].4BL
+Scheduled : 21/03/10 00:00:00
+Starting : 04/04/10 19:50:56
+Ending : 04/04/10 19:50:57
+
+*** Full Backup
+Creating archive : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0006].4BK
+Deleting old archive : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0003].4BK
+Creating log backup : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0005].4BL
+Deleting old log backup : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0002].4BL
+Scheduled : 11/04/10 00:00:00
+Starting : 25/05/10 23:41:54
+Ending : 25/05/10 23:41:54
+
+*** Full Backup
+Creating archive : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0007].4BK
+Deleting old archive : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0004].4BK
+Creating log backup : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0006].4BL
+Deleting old log backup : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0003].4BL
+Scheduled : 30/05/10 00:00:00
+Starting : 30/05/10 12:17:06
+Ending : 30/05/10 12:17:06
+
+*** Full Backup
+Creating archive : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0008].4BK
+Deleting old archive : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0005].4BK
+Creating log backup : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0007].4BL
+Deleting old log backup : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0004].4BL
+Scheduled : 06/06/10 00:00:00
+Starting : 23/06/10 23:16:56
+Ending : 23/06/10 23:16:56
+
+*** Full Backup
+Creating archive : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0009].4BK
+Deleting old archive : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0006].4BK
+Creating log backup : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0008].4BL
+Deleting old log backup : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0005].4BL
+Scheduled : 27/06/10 00:00:00
+Starting : 09/07/10 23:39:13
+Ending : 09/07/10 23:39:13
+
+*** Full Backup
+Creating archive : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0010].4BK
+Deleting old archive : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0007].4BK
+Deleting old log backup : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0006].4BL
+Scheduled : 11/07/10 00:00:00
+Starting : 26/07/10 02:33:45
+Ending : 26/07/10 02:33:45
+
+*** Full Backup
+Creating archive : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0011].4BK
+Deleting old archive : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0008].4BK
+Creating log backup : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0010].4BL
+Deleting old log backup : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0007].4BL
+Scheduled : 01/08/10 00:00:00
+Starting : 18/08/10 23:27:10
+Ending : 18/08/10 23:27:11
+
+*** Full Backup
+Creating archive : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0012].4BK
+Creating log backup : M160GB:Users:balinderwalia:Documents:Development:4D:4Dv11:Core.4dbase:Core[0011].4BL
+Scheduled : 22/08/10 00:00:00
+Starting : 27/08/10 12:35:29
+Ending : 27/08/10 12:35:29
+
+*** Full Backup
+Creating archive : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv11:Core.4dbase:Core[0001].4BK
+Scheduled : 15/09/10 01:31:29
+Starting : 15/09/10 01:31:29
+Ending : 15/09/10 01:31:30
+
+*** Full Backup
+Creating archive : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0001].4BK
+Creating log backup : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0000].4BL
+Scheduled : 15/09/10 01:32:07
+Starting : 15/09/10 01:32:07
+Ending : 15/09/10 01:32:07
+
+*** Full Backup
+Creating archive : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0002].4BK
+Creating log backup : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0001].4BL
+Scheduled : 19/09/10 00:00:00
+Starting : 23/10/10 01:41:02
+Ending : 23/10/10 01:41:02
+
+*** Full Backup
+Creating archive : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0003].4BK
+Creating log backup : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0002].4BL
+Scheduled : 24/10/10 00:00:00
+Starting : 03/11/10 19:11:40
+Ending : 03/11/10 19:11:41
+
+*** Full Backup
+Creating archive : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0004].4BK
+Deleting old archive : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0001].4BK
+Creating log backup : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0003].4BL
+Deleting old log backup : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0000].4BL
+Scheduled : 07/11/10 00:00:00
+Starting : 10/11/10 12:21:50
+Ending : 10/11/10 12:21:51
+
+*** Full Backup
+Creating archive : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0005].4BK
+Deleting old archive : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0002].4BK
+Creating log backup : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0004].4BL
+Deleting old log backup : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0001].4BL
+Scheduled : 14/11/10 00:00:00
+Starting : 19/11/10 13:21:11
+Ending : 19/11/10 13:21:11
+
+*** Full Backup
+Creating archive : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0006].4BK
+Deleting old archive : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0003].4BK
+Creating log backup : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0005].4BL
+Deleting old log backup : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0002].4BL
+Scheduled : 21/11/10 00:00:00
+Starting : 24/11/10 19:46:17
+Ending : 24/11/10 19:46:18
+
+*** Full Backup
+Creating archive : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0007].4BK
+Deleting old archive : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0004].4BK
+Creating log backup : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0006].4BL
+Deleting old log backup : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0003].4BL
+Scheduled : 28/11/10 00:00:00
+Starting : 28/11/10 19:57:14
+Ending : 28/11/10 19:57:15
+
+*** Full Backup
+Creating archive : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0008].4BK
+Deleting old archive : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0005].4BK
+Creating log backup : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0007].4BL
+Deleting old log backup : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0004].4BL
+Scheduled : 05/12/10 00:00:00
+Starting : 05/12/10 03:42:01
+Ending : 05/12/10 03:42:01
+
+*** Full Backup
+Creating archive : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0009].4BK
+Deleting old archive : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0006].4BK
+Creating log backup : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0008].4BL
+Deleting old log backup : MacSSD:Users:balinderwalia:Documents:Development-Tools:4D:4Dv12:Databases_v12:Corev12.4dbase:Core[0005].4BL
+Scheduled : 12/12/10 00:00:00
+Starting : 13/05/11 06:52:31
+Ending : 13/05/11 06:52:31
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:Corev14.4dbase:Core[0001].4BK
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:Corev14.4dbase:Core.4DIndx [NOT FOUND]
+Scheduled 14/06/2014 21:13
+Starting 14/06/2014 21:13
+Ending 14/06/2014 21:13
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:Corev14.4dbase:Core[0002].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:Corev14.4dbase:Core[0001].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv14_Dev:Corev14.4dbase:Core.4DIndx [NOT FOUND]
+Scheduled 15/06/2014 00:00
+Starting 17/09/2015 15:57
+Ending 17/09/2015 15:57
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:Corev15.dbase.4dbase:Core[0001].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:Corev15.dbase.4dbase:Core[0000].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Dropbox:4D Databases:4Dv15_Dev:Corev15.dbase.4dbase:Core.4DIndx [NOT FOUND]
+Scheduled 01/02/2016 16:43
+Starting 01/02/2016 16:43
+Ending 01/02/2016 16:43
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:Corev15.dbase.4dbase:Core[0001].4BK
+Creating log backup : Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:Corev15.dbase.4dbase:Core[0000].4BL
+Attachment(s): 
+	Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv15_Dev:Corev15.dbase.4dbase:Core.4DIndx [NOT FOUND]
+Scheduled 16/10/2016 22:08
+Starting 16/10/2016 22:08
+Ending 16/10/2016 22:08
+
